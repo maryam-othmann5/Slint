@@ -1,0 +1,26 @@
+import { Button } from "std-widgets.slint";
+
+export component AppWindow inherits Window {
+    width: 300px;
+    height: 150px;
+    title: "Slint C++ Benchmark";
+
+    in-out property <int> counter: 0;
+    callback increment();
+
+    VerticalLayout {
+        alignment: center;
+        spacing: 12px;
+
+        Text {
+            text: "Counter: " + counter;
+            horizontal-alignment: center;
+            font-size: 20px;
+        }
+
+        Button {
+            text: "Increment";
+            clicked => { increment(); }
+        }
+    }
+}

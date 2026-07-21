@@ -1,0 +1,10 @@
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/avif_serialize-3d92dd574c337d94.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/boxes.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/constants.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/writer.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libavif_serialize-3d92dd574c337d94.rlib: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/boxes.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/constants.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/writer.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libavif_serialize-3d92dd574c337d94.rmeta: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/boxes.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/constants.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/writer.rs
+
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/lib.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/boxes.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/constants.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.9/src/writer.rs:

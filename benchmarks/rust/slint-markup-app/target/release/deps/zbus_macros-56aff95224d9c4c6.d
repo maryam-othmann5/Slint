@@ -1,0 +1,10 @@
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/zbus_macros-56aff95224d9c4c6.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/error.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/iface.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/proxy.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/utils.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/../README.md
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libzbus_macros-56aff95224d9c4c6.so: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/error.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/iface.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/proxy.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/utils.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/../README.md
+
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/lib.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/error.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/iface.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/proxy.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/utils.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zbus_macros-5.18.0/src/../README.md:

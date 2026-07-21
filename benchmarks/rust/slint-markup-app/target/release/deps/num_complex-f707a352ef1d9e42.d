@@ -1,0 +1,10 @@
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/num_complex-f707a352ef1d9e42.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/cast.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/pow.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/complex_float.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libnum_complex-f707a352ef1d9e42.rlib: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/cast.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/pow.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/complex_float.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libnum_complex-f707a352ef1d9e42.rmeta: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/cast.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/pow.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/complex_float.rs
+
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/lib.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/cast.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/pow.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/num-complex-0.4.6/src/complex_float.rs:

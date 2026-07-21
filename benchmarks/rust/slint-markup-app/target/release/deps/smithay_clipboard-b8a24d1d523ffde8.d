@@ -1,0 +1,10 @@
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/smithay_clipboard-b8a24d1d523ffde8.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libsmithay_clipboard-b8a24d1d523ffde8.rlib: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libsmithay_clipboard-b8a24d1d523ffde8.rmeta: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs:
+/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs:

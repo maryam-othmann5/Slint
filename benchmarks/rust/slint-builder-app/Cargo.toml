@@ -1,0 +1,13 @@
+[package]
+name = "slint-builder-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+slint = "1.16"
+
+[profile.release]
+opt-level = "z"   # optimize for size — comment out to optimize for speed instead
+lto = true
+strip = true
+codegen-units = 1

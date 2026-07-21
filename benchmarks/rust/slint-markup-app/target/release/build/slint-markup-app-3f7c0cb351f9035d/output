@@ -1,0 +1,9 @@
+cargo:rerun-if-changed=/home/masrkaii/Documents/slint-case-study/benchmarks/rust/slint-markup-app/ui/app.slint
+cargo:rerun-if-env-changed=SLINT_STYLE
+cargo:rerun-if-env-changed=SLINT_FONT_SIZES
+cargo:rerun-if-env-changed=SLINT_SCALE_FACTOR
+cargo:rerun-if-env-changed=SLINT_ASSET_SECTION
+cargo:rerun-if-env-changed=SLINT_EMBED_RESOURCES
+cargo:rerun-if-env-changed=SLINT_EMIT_DEBUG_INFO
+cargo:rerun-if-env-changed=SLINT_LIVE_PREVIEW
+cargo:rustc-env=SLINT_INCLUDE_GENERATED=/home/masrkaii/Documents/slint-case-study/benchmarks/rust/slint-markup-app/target/release/build/slint-markup-app-3f7c0cb351f9035d/out/app.rs
