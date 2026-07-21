@@ -1,1 +1,0 @@
-{"rustc":9571511559510505644,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[3784827830060896018,"build_script_build",false,4165450952065429441]],"local":[{"RerunIfChanged":{"output":"release/build/rspolib-90601060402cf7bf/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

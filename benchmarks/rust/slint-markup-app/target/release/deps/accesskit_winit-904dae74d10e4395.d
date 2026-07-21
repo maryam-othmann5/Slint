@@ -1,9 +1,0 @@
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/accesskit_winit-904dae74d10e4395.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/mod.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/unix.rs
-
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libaccesskit_winit-904dae74d10e4395.rlib: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/mod.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/unix.rs
-
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libaccesskit_winit-904dae74d10e4395.rmeta: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/mod.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/unix.rs
-
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/lib.rs:
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/mod.rs:
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.33.2/src/platform_impl/unix.rs:

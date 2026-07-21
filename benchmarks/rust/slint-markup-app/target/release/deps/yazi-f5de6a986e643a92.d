@@ -1,9 +1,0 @@
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/yazi-f5de6a986e643a92.d: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/decode.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/encode.rs
-
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libyazi-f5de6a986e643a92.rlib: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/decode.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/encode.rs
-
-/home/masrkaii/Documents/slint-case-study-extracted/slint-case-study/benchmarks/rust/slint-markup-app/target/release/deps/libyazi-f5de6a986e643a92.rmeta: /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/lib.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/decode.rs /home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/encode.rs
-
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/lib.rs:
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/decode.rs:
-/home/masrkaii/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/yazi-0.2.1/src/encode.rs:
