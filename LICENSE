@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 <Mariam_Mohamed>
+Copyright (c) 2026 Mariam Othman 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note: this license covers the original write-up and benchmark code in this
-repository. Slint itself is licensed separately by SixtyFPS GmbH under its
-own terms (GPLv3 / royalty-free / commercial) — see https://slint.dev for
-details before using Slint in your own projects.
